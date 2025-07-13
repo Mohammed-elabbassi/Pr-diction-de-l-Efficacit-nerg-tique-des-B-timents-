@@ -30,4 +30,7 @@ Les attributs ont tous une valeur réelle sauf X6 et X8 qui sont des entiers.
 
 3. Ressources 
 Python, avec des bibliothèques Pandas, Scikit-learn, et Matplotlib pour 
-l'analyse et la visualisation. 
+l'analyse et la visualisation.
+
+## Contact
+Pour toute question ou amélioration, tu peux me contacter via [med.elabbassi00@gmail.com].
